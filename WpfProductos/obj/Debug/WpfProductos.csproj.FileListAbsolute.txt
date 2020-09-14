@@ -1,0 +1,29 @@
+c:\users\esevillaz\documents\visual studio 2015\Projects\WpfProductos\WpfProductos\bin\Debug\WpfProductos.exe.config
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\bin\Debug\WpfProductos.exe
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\bin\Debug\WpfProductos.pdb
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\obj\Debug\WpfProductos.csprojResolveAssemblyReference.cache
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\obj\Debug\MainWindow.g.cs
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\obj\Debug\App.g.cs
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\obj\Debug\WpfProductos_MarkupCompile.cache
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\obj\Debug\WpfProductos_MarkupCompile.lref
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\obj\Debug\MainWindow.baml
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\obj\Debug\WpfProductos.g.resources
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\obj\Debug\WpfProductos.Properties.Resources.resources
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\obj\Debug\WpfProductos.csproj.GenerateResource.Cache
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\obj\Debug\WpfProductos.exe
+C:\Users\esevillaz\Documents\Visual Studio 2015\Projects\WpfProductos\WpfProductos\obj\Debug\WpfProductos.pdb
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\bin\Debug\WpfProductos.exe.config
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\bin\Debug\WpfProductos.exe
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\bin\Debug\WpfProductos.pdb
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\WpfProductos.csprojAssemblyReference.cache
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\MainWindow.g.cs
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\App.g.cs
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\WpfProductos_MarkupCompile.cache
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\WpfProductos_MarkupCompile.lref
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\MainWindow.baml
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\WpfProductos.g.resources
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\WpfProductos.Properties.Resources.resources
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\WpfProductos.csproj.GenerateResource.cache
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\WpfProductos.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\WpfProductos.exe
+C:\Users\johan\Desktop\Version 1\WpfProductos\WpfProductos\obj\Debug\WpfProductos.pdb
