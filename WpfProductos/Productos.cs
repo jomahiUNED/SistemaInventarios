@@ -65,6 +65,26 @@ namespace WpfProductos
             return producto;
         }
 
+        public bool borrar(string codigo)
+        {
+            string[] producto = new string[4];
+
+            for (int f = 0; f < 10; f++)
+            {
+                for (int c = 0; c < 4; c++)
+                {
+                    if (this.productos[f, c] == codigo)
+                    {
+                        this.productos[f, 0] = "";
+                        this.productos[f, 1] = "";
+                        this.productos[f, 2] = "";
+                        this.productos[f, 3] = "";
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
 
 
     }
