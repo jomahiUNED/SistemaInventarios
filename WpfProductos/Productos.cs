@@ -47,7 +47,24 @@ namespace WpfProductos
             }
         }
 
-   
+        public string[] buscar(string codigo)
+        {
+            string[] producto = new string[4];
+
+            for (int f = 0; f < 10; f++)
+            {
+                if (this.productos[f, 0] == codigo)
+                {
+                    producto[0] = this.productos[f, 0];
+                    producto[1] = this.productos[f, 1];
+                    producto[2] = this.productos[f, 2];
+                    producto[3] = this.productos[f, 3];
+                    return producto;
+                }
+            }
+            return producto;
+        }
+
 
 
     }
