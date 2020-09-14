@@ -13,9 +13,9 @@
                 <GradientStop Color="White" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <Button x:Name="btnConsultar" Content="Consultar producto" HorizontalAlignment="Left" Height="26.667" Margin="63.333,0,0,10" VerticalAlignment="Bottom" Width="112.666" Click="btnConsultar_Click"/>
-        <Button x:Name="btnGuardar" Content="Guardar producto" Height="26.668" Margin="201.336,0,202.331,10" VerticalAlignment="Bottom" Click="btnGuardar_Click"/>
-        <Button x:Name="btnEliminar" Content="Eliminar producto" Height="26.667" Margin="0,0,62.999,10" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="113.333" Click="btnEliminar_Click"/>
+        <Button x:Name="btnConsultar" Content="Consultar producto" HorizontalAlignment="Left" Height="26.667" Margin="10,0,0,11.707" VerticalAlignment="Bottom" Width="112.666" Click="btnConsultar_Click"/>
+        <Button x:Name="btnGuardar" Content="Guardar producto" Height="26.668" Margin="139.336,0,0,11.707" VerticalAlignment="Bottom" Click="btnGuardar_Click" HorizontalAlignment="Left" Width="113.333"/>
+        <Button x:Name="btnEliminar" Content="Eliminar producto" Height="26.667" Margin="0,0,10,10" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="113.333" Click="btnEliminar_Click"/>
         <Rectangle Height="108" Stroke="Black" VerticalAlignment="Top" IsEnabled="False">
             <Rectangle.Fill>
                 <ImageBrush ImageSource="imgVet.jpg"/>
@@ -43,6 +43,7 @@
             </Label.Background>
         </Label>
         <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Right" Margin="0,119,62.999,0" VerticalAlignment="Top" Width="75" Click="btnLimpiar_Click"/>
+        <Button x:Name="btnModificar" Content="Modificar producto" Height="26.668" Margin="0,0,137.664,9.999" VerticalAlignment="Bottom" Click="btnModificar_Click" HorizontalAlignment="Right" Width="113.333"/>
 
     </Grid>
 </Window>

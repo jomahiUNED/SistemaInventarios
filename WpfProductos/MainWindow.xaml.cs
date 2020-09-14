@@ -26,12 +26,12 @@ namespace WpfProductos
 
         public MainWindow()
         {
-           
+
             //misProductos.inicializar();
             InitializeComponent();
         }
 
-       
+
 
         private void btnLimpiar_Click(object sender, RoutedEventArgs e)
         {
@@ -70,13 +70,13 @@ namespace WpfProductos
             else
             {
                 pr = misProductos.buscar(cod);
-               
+
                 if (pr[0] == null)
                 {
                     MessageBox.Show("Producto no encontrado");
                 }
                 else
-                { 
+                {
                     txtCodigo.Text = pr[0].ToString();
                     txtNombre.Text = pr[1].ToString();
                     txtPrecio.Text = pr[2].ToString();
@@ -98,6 +98,28 @@ namespace WpfProductos
             if (borrado)
             {
                 MessageBox.Show("Se eliminó el producto");
+            }
+            else
+            {
+                MessageBox.Show("Producto no encontrado");
+            }
+
+        }
+
+        private void btnModificar_Click(object sender, RoutedEventArgs e)
+        {
+            bool modificado;
+            string cod, nomb, prc, cant;
+
+            cod = txtCodigo.Text.ToString();
+            nomb = txtNombre.Text.ToString();
+            prc = txtPrecio.Text.ToString();
+            cant = txtCantidad.Text.ToString();
+
+            modificado = misProductos.modificar(cod, nomb, prc, cant);
+            if (modificado)
+            {
+                MessageBox.Show("Se modificó producto");
             }
             else
             {

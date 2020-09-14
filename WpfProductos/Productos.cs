@@ -86,6 +86,23 @@ namespace WpfProductos
             return false;
         }
 
+        public bool modificar(string codigo, string nombre, string precio, string cant)
+        {
+            int f;
+            for (f = 0; f < 10; f++)
+            {
+                if (this.productos[f, 0] == codigo)
+                {
+                    this.productos[f, 1] = nombre;
+                    this.productos[f, 2] = precio;
+                    this.productos[f, 3] = cant;
+                    System.Windows.MessageBox.Show("Producto se actualizó satisfactoriamente");
+                    return true;
+                }
+            }
+            return false;
+        }
+
 
     }
 
